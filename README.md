@@ -6,7 +6,7 @@ This repository contains the preliminary, non-public version of the tools develo
 
 ### Requirements and Usage
 
-The current setup requires **MATLAB**. To reproduce the experiments, simply execute the provided `.bat` script from within the working directory. This script initializes the environment and launches the configured evaluation pipeline used in our submission.
+The current setup requires **MATLAB** and **Windows OS**. To reproduce the experiments, simply execute the provided `.bat` script from within the working directory. This script initializes the environment and launches the configured evaluation pipeline used in our submission.
 
 ### Public Release Plan
 
